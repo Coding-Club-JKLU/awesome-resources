@@ -9,4 +9,6 @@ A repository where you can submit programming related resources for everyone.
 3.  Create a PR.
 4.  That'a all 😃
 
+> REFER TO [exampleFile](/exampleFile.md).
+
 ---
