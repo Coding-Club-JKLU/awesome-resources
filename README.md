@@ -16,5 +16,6 @@ A repository where you can submit programming related resources for everyone.
 - programming roadmap
 - resources [courses, books, tools]
 - cool websites which are helpful to coding
+- and many more
 
 ---
