@@ -1,4 +1,7 @@
-Title | Offered By | Course Link
+# Applied Data Science Using Python courses
+There courses are helpful for anyone who plan to start their journey in data science. With each course planned out, teaching different concepts of basics of data science like data processing, plotting, ML. The entire specializtion consists of 5 courses which can be accessed individually in order. The courses are available to audit for free on coursera.
+
+Course Title | Offered By | Course Link
 --- | --- | ---
 Introduction to Data Science in Python | University of Michigan | https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python
 Applied Plotting, Charting & Data Representation in Python | University of Michigan | https://www.coursera.org/learn/python-plotting?specialization=data-science-python
