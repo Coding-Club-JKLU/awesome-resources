@@ -2,7 +2,7 @@
 title: "Coding Tutorials of different programming languages"
 author: ""
 github: ""
-date: "2021-10-07"
+date: "2021-10-08"
 ---
 
 # Links
