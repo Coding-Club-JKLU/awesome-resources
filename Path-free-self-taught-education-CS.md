@@ -1,7 +1,7 @@
 
 | title | author | github | date |
 | ----- | ------ | ------ | ---- |
-| Path to a free self-taught education in Computer Science! | [charan-143](https://github.com/charan-143) | https://github.com/charan-143 | 2021-10-05 |
+| Path to a free self-taught education in Computer Science! | [charan-143](https://github.com/charan-143) | https://github.com/charan-143 | 2021-10-12 |
 
 
 #### Description
