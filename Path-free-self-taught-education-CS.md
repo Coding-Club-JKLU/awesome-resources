@@ -15,7 +15,7 @@
 
 - If your are looking for knowledge but not for certificates this is a great source to learn.. 
 
-- The curriculum designed in this organization is [Intro CS](https://github.com/ossu/computer-science#:~:text=in%20high%20school).-,Intro%20CS,-Introduction%20to%20Programming), [Core CS](https://github.com/ossu/computer-science#:~:text=chat-,Core%20CS,-All%20coursework%20under), [Advanced CS](https://github.com/ossu/computer-science#:~:text=chat-,Advanced%20CS,-After%20completing%20every), [Final Project](https://github.com/ossu/computer-science#:~:text=chat-,Final%20project,-OSS%20University%20is).
+- The curriculum designed in this organization is [Intro CS](https://github.com/ossu/computer-science#:~:text=in%20high%20school), [Core CS](https://github.com/ossu/computer-science#:~:text=chat-,Core%20CS,-All%20coursework%20under), [Advanced CS](https://github.com/ossu/computer-science#:~:text=chat-,Advanced%20CS,-After%20completing%20every), [Final Project](https://github.com/ossu/computer-science#:~:text=chat-,Final%20project,-OSS%20University%20is).
 
 
 #### Top five courses Recommended for Begginers
