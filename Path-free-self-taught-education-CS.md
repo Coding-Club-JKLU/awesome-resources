@@ -3,12 +3,6 @@
 | ----- | ------ | ------ | ---- |
 | Path to a free self-taught education in Computer Science! | [charan-143](https://github.com/charan-143) | https://github.com/charan-143 | 2021-10-05 |
 
-<!-- ---
-title: "Path to a free self-taught education in Computer Science!"
-author: [charan-143](https://github.com/charan-143)
-github: "https://github.com/charan-143"
-date: "2021-10-05"
---- -->
 
 #### Description
 - This is a open source society which is looking forward to help the students with the learning process. 
@@ -28,8 +22,8 @@ date: "2021-10-05"
 
 | Courses | Duration | Effort | Prerequisites |
 | --- | ----------- | ------- | ------------- |
-| Python for Everybody |  10 weeks	| 10 hours/week	| none |
-| Introduction to Computer Science and Programming using Python | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) |
-| Object-Oriented Design | 4 weeks | 4 hours/week | Basic Java |
-| How to Code - Simple Data |	7 weeks | 8-10 hours/week	| none |
-| How to Code - Complex Data |	6 weeks | 8-10 hours/week	| How to Code: Simple Data |
+| [Python for Everybody](https://www.py4e.com/lessons) |  10 weeks	| 10 hours/week	| none |
+| [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) |
+| [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) |	7 weeks | 8-10 hours/week	| none |
+| [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) |	6 weeks | 8-10 hours/week	| How to Code: Simple Data |
+| [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | 4 hours/week | Basic Java |
