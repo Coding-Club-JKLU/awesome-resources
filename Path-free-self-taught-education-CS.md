@@ -1,9 +1,14 @@
----
+
+| title | author | github | date |
+| ----- | ------ | ------ | ---- |
+| Path to a free self-taught education in Computer Science! | [charan-143](https://github.com/charan-143) | https://github.com/charan-143 | 2021-10-05 |
+
+<!-- ---
 title: "Path to a free self-taught education in Computer Science!"
-author: "[charan-143](https://github.com/charan-143)"
+author: [charan-143](https://github.com/charan-143)
 github: "https://github.com/charan-143"
 date: "2021-10-05"
----
+--- -->
 
 #### Description
 - This is a open source society which is looking forward to help the students with the learning process. 
