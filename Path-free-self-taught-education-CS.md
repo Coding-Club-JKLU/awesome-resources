@@ -26,4 +26,4 @@
 | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) |
 | [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) |	7 weeks | 8-10 hours/week	| none |
 | [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) |	6 weeks | 8-10 hours/week	| [How to Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data) |
-| [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | 4 hours/week | Basic Java |
+| [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | 4 hours/week | [Basic Java](https://www.youtube.com/watch?v=GoXwIVyNvX0) |
