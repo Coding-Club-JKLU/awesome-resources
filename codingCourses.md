@@ -1,9 +1,6 @@
----
-title: "Coding Tutorials of different programming languages"
-author: "Akshat Modani"
-github: [Akshat12210](https://github.com/Akshat12210?tab=repositories)
-date: "2021-10-08"
----
+| title | author | github | date |
+| ----- | ------ | ------ | ---- |
+| Coding Tutorials of different programming languages | Akshat Modani |[Akshat12210](https://github.com/Akshat12210)| 2021-10-13 |
 
 # Links
 CWH - Code With Mosh
