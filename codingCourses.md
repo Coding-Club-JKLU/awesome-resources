@@ -1,7 +1,7 @@
 ---
 title: "Coding Tutorials of different programming languages"
-author: ""
-github: ""
+author: "Akshat Modani"
+github: "[Akshat12210](https://github.com/Akshat12210?tab=repositories)"
 date: "2021-10-08"
 ---
 
